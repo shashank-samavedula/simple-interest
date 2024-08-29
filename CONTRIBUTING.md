@@ -32,7 +32,7 @@ Please make sure your pull request adheres to the following guidelines:
 
 ## Code of Conduct
 
-This project adheres to the Contributor Covenant Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to [INSERT EMAIL ADDRESS].
+This project adheres to the Contributor Covenant Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to Mr. Wilson Fisk at wilson.fisk@kingpin.com
 
 ## License
 
